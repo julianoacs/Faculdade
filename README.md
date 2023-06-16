@@ -1,2 +1,2 @@
 # Faculdade
- Projetos e Codigos criados durando o curso de Ciência da Computação
+ Projetos e Codigos criados durante o curso de Ciência da Computação
