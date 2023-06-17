@@ -8,10 +8,8 @@ package exercicio3;
 
 import java.util.Scanner;
 
-
 public class Exercicio3 {
 
- 
     public static void main(String[] args) {
        Scanner input = new Scanner (System.in);
         int numero1 = 0;
@@ -34,9 +32,8 @@ public class Exercicio3 {
     resultado3 = numero1 * numero2 * numero3;
     
     System.out.println("A soma dos valores e " + resultado);
-    System.out.println("O Produto dos valores e " + resultado2);
-    System.out.println("O Produto dos valores é " + resultado3);
+    System.out.println("O produto dos valores e " + resultado2);
+    System.out.println("O multiplicacao dos valores e " + resultado3);
 
     }
-    
 }
