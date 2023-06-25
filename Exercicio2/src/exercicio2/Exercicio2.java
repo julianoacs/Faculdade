@@ -4,7 +4,7 @@
  */
 package exercicio2;
 
-//@author juliano
+//@author Julianoacs
 
 /*Escreva um aplicativo que solicite ao usuário inserir dois inteiros, obtenha dele esses números
 e exiba o número maior seguido pelas palavras “É maior". Se os números forem iguais,

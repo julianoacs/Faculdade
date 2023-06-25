@@ -4,7 +4,7 @@
  */
 package exercicio1;
 
-// @author juliano
+// @author Julianoacs
 
 /*Escreva um aplicativo que solicite ao usuário inserir dois inteiros,
 obtenha dele esses números e imprima sua soma, produto, diferença e quociente (divisão).*/

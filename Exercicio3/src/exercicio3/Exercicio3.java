@@ -4,7 +4,7 @@
  */
 package exercicio3;
 
-//@author juliano
+//@author Julianoacs
 
 /*Escreva um aplicativo que insira três inteiros digitados pelo usuário e
 exiba a soma, média, produto e os números menores e maiores.*/
