@@ -6,6 +6,10 @@ package exercicio2;
 
 //@author juliano
 
+/*Escreva um aplicativo que solicite ao usuário inserir dois inteiros, obtenha dele esses números
+e exiba o número maior seguido pelas palavras “É maior". Se os números forem iguais,
+imprima a mensagem “Estes números são iguais".*/
+
 import java.util.Scanner;
 
 public class Exercicio2 {

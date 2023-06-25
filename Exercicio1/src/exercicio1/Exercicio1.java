@@ -6,6 +6,9 @@ package exercicio1;
 
 // @author juliano
 
+/*Escreva um aplicativo que solicite ao usuário inserir dois inteiros,
+obtenha dele esses números e imprima sua soma, produto, diferença e quociente (divisão).*/
+
 import java.util.Scanner;
 
 

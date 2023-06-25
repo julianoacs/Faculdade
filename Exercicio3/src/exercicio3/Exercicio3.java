@@ -6,6 +6,9 @@ package exercicio3;
 
 //@author juliano
 
+/*Escreva um aplicativo que insira três inteiros digitados pelo usuário e
+exiba a soma, média, produto e os números menores e maiores.*/
+
 import java.util.Scanner;
 
 public class Exercicio3 {
