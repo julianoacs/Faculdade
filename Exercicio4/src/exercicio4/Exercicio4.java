@@ -40,6 +40,9 @@ public class Exercicio4 {
         System.out.println("O maior numero e: " + maior);
         System.out.println("O menor numero e: " + menor);
     
+        
+        //programa aula java
+       
     }
     
 }
