@@ -37,6 +37,5 @@ public class Exercicio3 {
     System.out.println("A soma dos valores e " + resultado);
     System.out.println("O produto dos valores e " + resultado2);
     System.out.println("O multiplicacao dos valores e " + resultado3);
-
     }
 }

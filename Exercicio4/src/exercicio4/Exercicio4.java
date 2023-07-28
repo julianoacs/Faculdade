@@ -24,7 +24,6 @@ public class Exercicio4 {
             System.out.print("Numero " + (i + 1) + ": ");
             numeros[i] = scanner.nextInt();
         }
-        
         int maior = numeros[0];
         int menor = numeros[0];
 
@@ -36,12 +35,8 @@ public class Exercicio4 {
                 menor = numeros[i];
             }
         }
-        
         System.out.println("O maior numero e: " + maior);
         System.out.println("O menor numero e: " + menor);
-    
-        
-        //programa aula java
     }
     
 }
