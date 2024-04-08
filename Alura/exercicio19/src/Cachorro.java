@@ -5,6 +5,10 @@ public class Cachorro extends Animal{
         this.nome = nome;
     }
 
+    public Cachorro() {
+
+    }
+
     public String getNome() {
         return nome;
     }

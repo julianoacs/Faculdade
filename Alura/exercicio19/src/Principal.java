@@ -7,6 +7,5 @@ public class Principal {
         } else {
             System.out.println("Não é um Cachorro.");
         }
-
     }
 }
