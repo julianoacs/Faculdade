@@ -108,7 +108,6 @@ public class IdiomaSwing extends javax.swing.JFrame {
             }
         });
     }
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton botao;
     private javax.swing.JLabel idioma;
