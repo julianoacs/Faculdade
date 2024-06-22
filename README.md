@@ -1,2 +1,2 @@
 # Faculdade
- Exercícios e Códigos escritos durante o curso de Ciência da Computação
+Exercícios e Códigos desenvolvidos durante o curso de Ciência da Computação.
